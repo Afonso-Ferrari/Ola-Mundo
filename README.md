@@ -41,6 +41,7 @@ Num | Nome | Nota
 2 | Gustavo | 8
 
 Para destacar comandos de código `document.get()`
+
 Para trexos de código 
 ```
 Codigo
